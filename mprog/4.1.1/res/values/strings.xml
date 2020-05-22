@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Spela upp YouTube-filmer</string>
+    <string name="title">Play a national anthem!</string>
+    <string name="sweden">Sweden</string>
+    <string name="france">France</string>
+    <string name="denmark">Denmark</string>
+    <string name="italy">Italy</string>
+</resources>

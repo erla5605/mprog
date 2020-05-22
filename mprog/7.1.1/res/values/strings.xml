@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Anvanda copy and paste</string>
+    <string name="copy">Copy</string>
+    <string name="paste">Paste</string>
+</resources>

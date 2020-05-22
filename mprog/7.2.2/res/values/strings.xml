@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Anvanda vibrationer</string>
+    <string name="repetitions_text_view">Number of repetitions:</string>
+    <string name="vibration_text_view">Vibration duration:</string>
+    <string name="pause_text_view">Pause duration:</string>
+    <string name="start_vibration">VIBRATE</string>
+</resources>

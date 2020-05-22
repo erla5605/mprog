@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Spela in och upp ljud</string>
+    <string name="record_text">Record</string>
+    <string name="play_text">Play</string>
+    <string name="record_description">Record Audio</string>
+    <string name="play_description">Play Audio</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Anvanda notifikationer</string>
+    <string name="pick_date">Pick a date</string>
+    <string name="set_date">Set date?</string>
+    <string name="set_date_message">Do you want to set the date?</string>
+    <string name="date_set_toast">Date set!</string>
+    <string name="date_not_set_toast">Date not set!</string>
+    <string name="channel_name">anvandanotifikationer</string>
+    <string name="notification_title">Date set!</string>
+    <string name="notification_text">Date has been set to:</string>
+</resources>

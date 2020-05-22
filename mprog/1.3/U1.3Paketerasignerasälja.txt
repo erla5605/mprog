@@ -1,0 +1,17 @@
+Skapa apk-fil och signera
+
+I Android studio välj "Build" sen "Generate Signed Bundle / APK" i dropdownmenyn.
+
+För att skapa en ny key store ska dessa steg följas:
+I rutan som öppnas välj "Create new...", för att skapa en ny key store.
+I nästa ruta som visas väljs var key store ska lagras, lösenordet till den.
+Samt fält där man kan fylla i information om en själv för ceritfikatet som Alias (för nyckeln), lösenord för nyckeln, 
+hur länge certifikatet ska vara giltigt, ens namn, ens enhet, ens företag, ens stad, stat och land.
+Efter det skapas key store.
+
+När det är klart kan man gå vidare i den ruta där man valde "Create new...".
+I rutan efter det så väljer man vilken bygg variant man vill ha. Samt vilken typ av "Signature Version" man vill ha.
+Signatur versionen beror på vilka versioner av Android som man vill att appen ska vara kompatibel med.
+Efter det väljer man finish, och sedan skapas apk och sparas på platsen som man har valt.
+
+

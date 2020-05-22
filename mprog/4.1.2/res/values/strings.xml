@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Oppna webbsidor</string>
+    <string name="google_text">Google</string>
+    <string name="wiki_text">Wiki</string>
+    <string name="svt_text">SVT</string>
+</resources>

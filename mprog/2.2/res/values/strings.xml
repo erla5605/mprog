@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SQLiteDB</string>
+    <string name="primeNr">primeNr</string>
+    <string name="btnAllPrimeNr">All Prime numbers</string>
+</resources>

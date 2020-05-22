@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sanda och ta emot epost</string>
+    <string name="recipient_hint">Recipient</string>
+    <string name="subject_hint">Subject</string>
+    <string name="attachments">Attachments:</string>
+    <string name="attached_files">No attached files</string>
+    <string name="attachment">attachment</string>
+</resources>
